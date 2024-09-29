@@ -1,4 +1,4 @@
-**_ Panduan Git dan Github _**
+**Panduan Git dan Github**
 
 - Pertama - tama kalian buka situs www.github.com
 
